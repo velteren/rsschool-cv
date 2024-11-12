@@ -1,6 +1,6 @@
 # Curriculum vitae
 
-### Konstantin Saveliev
+### Constantine Saveliev
  __Contacts:__ 
 * _Telegram:_ [@velteren](https://t.me/velteren) 
 * _Discord:_ [Konstantin#1483](https://discord.com/users/220827177057386496)
